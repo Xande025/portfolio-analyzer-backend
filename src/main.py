@@ -35,7 +35,6 @@ def serve(path):
         else:
             return "index.html not found", 404
 
-# Vercel will automatically detect the 'app' variable and use it as the entry point.
-# No need for if __name__ == '__main__': app.run() when deploying to Vercel.
-
+if __name__ == '__main__':
+    app.run(host='0.0.0.0', port=5000, debug=True)
 
