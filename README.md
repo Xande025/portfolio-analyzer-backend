@@ -151,18 +151,4 @@ SECRET_KEY=sua_chave_secreta
 
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para detalhes.
 
-## 🙏 Agradecimentos
-
-- [Yahoo Finance](https://finance.yahoo.com/) pelos dados financeiros
-- [React](https://reactjs.org/) pela framework frontend
-- [Flask](https://flask.palletsprojects.com/) pela framework backend
-- [Tailwind CSS](https://tailwindcss.com/) pelo sistema de design
-
-## 📞 Suporte
-
-Para suporte, abra uma issue no GitHub ou entre em contato através do email: suporte@analisador-portfolio.com
-
----
-
-**Desenvolvido com ❤️ para investidores inteligentes**
 
